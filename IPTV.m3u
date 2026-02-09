@@ -144,8 +144,8 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8?fake=1756120947138
 
 
 #--*.*--INTHEBOX--*.*--#
-#EXTINF:0 tvg-id="boxmovie1" group-title="PHIM" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Bóng Đá 1
+https://tft90gr4nhct1gwzdrcttfa4d1mmcpf5gkcjo.100ycdn.com/live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8?wsSession=99c769bff601f55f2e3cd3c7-177064134509455&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsiphost=local&wsBindIP=1
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 https://thvip.site/360/160/index.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="KHOA HỌC VĂN HÓA" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
