@@ -1,8 +1,6 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
 
 
-
-#--*.*--VTV--*.*--#
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
 https://live.alilicloud.com/live/2fade20c9cf4eaa5043154a0c7d9cac6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
@@ -10,4 +8,4 @@ https://live.alilicloud.com/live/8c5bb50efaa839aec3a5a64498ac374a/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
 https://live.alilicloud.com/live/1cb5534dbf67c4a421c40e58ff397c69/playlist.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+https://live.alilicloud.com/live/d899cde41bb8163b42fd50419ae67e82/playlist.m3u8
