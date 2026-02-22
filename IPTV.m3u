@@ -4,7 +4,7 @@
 
 #--*.*--VTV--*.*--#
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://tftm0gr4nhct1gwzdrcttfa4ugmmcpf5gkcjo.100ycdn.com/live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8?wsSession=1cc5aed91c412dc32470575f-177176925337126&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsiphost=local&wsBindIP=1
+https://cdn-hls.taoxanh.biz/live/699b46b026633_18754/index.m3u8?expire=1772388656&sign=bcb8f3f558b2a5b06972c7c755c65c87
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
