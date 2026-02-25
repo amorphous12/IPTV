@@ -6,6 +6,8 @@ https://cdn-hls.taoxanh.biz/live/699f36d75d988_124958/index.m3u8?expire=17726467
 #EXTINF:-1 tvg-id="vtv2hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
 http://hoatv001.ddns.net/iptv/admin.php?stream=c6761486d2d9d94487a0f6453cc10771&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+https://live.alilicloud.com/live/6645cc97cc845243c9aeccade7a648ad/playlist.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 4
 http://hoatv001.ddns.net/iptv/admin.php?stream=10e09e0e14012c6aa411b7a8b64dc040&token=f1fb22aca9a86f8cd80bad1504beb103
+#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 5
+https://live.alilicloud.com/live/e84c55e4e6f34b8e5e509fc487b934fc/playlist.m3u8
