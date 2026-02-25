@@ -2,7 +2,7 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://2893254555.global.cdnfastest.com/live/699f36d75d988_124958/index.m3u8?expire=1772646743&sign=4b38e37f33d6d542ac789da39a152b57
+https://cdn-hls.taoxanh.biz/live/699f36d75d988_124958/index.m3u8?expire=1772646743&sign=4b38e37f33d6d542ac789da39a152b57
 #EXTINF:-1 tvg-id="vtv2hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
 http://hoatv001.ddns.net/iptv/admin.php?stream=c6761486d2d9d94487a0f6453cc10771&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
