@@ -2,7 +2,7 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://n13.sanwalyaarpya.com:1686/hls/do83.m3u8?md5=td352fgEbyTnyApsu7xxjQ&expires=1772314352|Origin=https%3A%2F%2Fvividmosaica.com&Connection=keep-alive&Referer=https%3A%2F%2Fvividmosaica.com%2F&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F77.0.3865.120+Safari%2F537.36
+https://n13.sanwalyaarpya.com:1686/hls/do83.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
 http://hoatv001.ddns.net/iptv/admin.php?stream=c6761486d2d9d94487a0f6453cc10771&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
