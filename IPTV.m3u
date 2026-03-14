@@ -6,8 +6,8 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=10e09e0e14012c6aa411b7a8b64dc040&
 #EXTINF:-1 tvg-id="vtv2hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
 http://hoatv001.ddns.net/iptv/admin.php?stream=c6761486d2d9d94487a0f6453cc10771&token=f1fb22aca9a86f8cd80bad1504beb103
 #EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
-https://live.alilicloud.com/live/4c79671fd90931188cc1e5d11931cff5/playlist.m3u8
+https://live.alilicloud.com/live/8dbe17a388b0ae42b2bb305abd546cf6/playlist.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 4
-https://live.alilicloud.com/live/7aa5db8124f95a19e8d1934b73aa5af1/playlist.m3u8
+https://live.alilicloud.com/live/4fb1dcca1ef5ee7b25e367ab007b2601/playlist.m3u8
 #EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 5
 https://live.alilicloud.com/live/7aa5db8124f95a19e8d1934b73aa5af1/playlist.m3u8
