@@ -2,9 +2,9 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://live.alilicloud.com/live/32a6ff69f93e19b50f4374341cbdd6a6/playlist.m3u8
+https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", Bóng Đá 2
-https://live.alilicloud.com/live/408ce484468ce89c0a9b755cc70efb87/playlist.m3u8
+https://tfv64gwhnhcjagazdnqbafaauecbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=08f3f7e79ad8c9aff51c0a018a6c750f&wsABSTime=1776648314&wsSession=b811e105013a58c659bc7d6f-177660511674406&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168270624956455233
 #EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
 https://live.alilicloud.com/live/1bcdf19ad73be1ba563ada5a34a33bbf/playlist.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 4
