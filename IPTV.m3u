@@ -2,10 +2,9 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001779636057-0-0-0074e2feaa3b2af24a04515578b7456c
-https://tfv64gwhnhcjagazdnqbafaauecbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=08f3f7e79ad8c9aff51c0a018a6c750f&wsABSTime=1776648314&wsSession=b811e105013a58c659bc7d6f-177660511674406&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168270624956455233
+https://wtyi0525.edgemaxcdn.org/live/x30-hd-0025/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
-https://tfv64gwhnhcjagazdnqbafaauecbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=c1c1dc0bdf3c238253f518f662523897&wsABSTime=1776648545&wsSession=b811e105013a58c659bc7d6f-177660534650655&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168270624956455233
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-0064/playlist.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 4
 https://tfv64gwhnhcjagazdnqbafaauecbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=5120e369953356ccd72898849283ceca&wsABSTime=1776649908&wsSession=b811e105013a58c659bc7d6f-177660671078080&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168270624956455233
 #EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 5
