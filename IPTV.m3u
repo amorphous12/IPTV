@@ -2,39 +2,8 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://wtyi0525.edgemaxcdn.org/live/x30-hd-0025/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 3
-https://wtyi0525.edgemaxcdn.org/live/x10-hd-0064/playlist.m3u8
-#EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 4
-https://tfv64gwhnhcjagazdnqbafaauecbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=5120e369953356ccd72898849283ceca&wsABSTime=1776649908&wsSession=b811e105013a58c659bc7d6f-177660671078080&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168270624956455233
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 5
-https://tfvk0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=5f5901766e6f4071ffec144da17dcc7e&wsABSTime=1777877340&wsSession=50ce52dbb8c40b9f4ed6cd0e-177783414238610&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 6
-https://tfvk0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=9b8267a58b9e17047c6f045a105b5d26&wsABSTime=1777877847&wsSession=50ce52dbb8c40b9f4ed6cd0e-177783464893480&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 7
-https://tfv70gr4nhct1gwzdepjqge3demmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=afcc76ad116f9d7baa0c2cd83da6b6d1&wsABSTime=1776745408&wsSession=7fae4a92f019b12eb9bfa5a7-177670221152350&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168271556925775111
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 8
-https://tfvb0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=33e138c6bda59def7b448cfb3083c6d0&wsABSTime=1777053537&wsSession=089251639359db1700982033-177701034055125&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 9
-https://tfvb0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=3da0911b887750496a005bcf623ea46f&wsABSTime=1777063826&wsSession=089251639359db1700982033-177702062804303&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 10
-https://tfvc0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=c6bc16e25647fec34b39d4b37a67b587&wsABSTime=1777160700&wsSession=089251639359db1700982033-177711750308262&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 11
-https://tfvc0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=8db0bac01d8c134e5426f4767d54ba25&wsABSTime=1777160800&wsSession=089251639359db1700982033-177711760160836&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 12
-https://tfvc0gr4nhct1gwzdepjqge3dkmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel24/playlist.m3u8?wsSecret=36f72091dfe416fdc28e2dd3a0c2c141&wsABSTime=1777169071&wsSession=5461c0bd4e5bbb014f90d5f7-177712587246635&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168271908994494404
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 13
-https://tfvc0graucmt3gazdqqjqge4dnmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=0802850524ab4c20dc6a9996864162ab&wsABSTime=1777179902&wsSession=a8c55fd5f24c17a99892628f-177713670553422&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168269529837621501
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 14
-https://tfvg0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=821c51e23fd957278ef5c11a0ecac18f&wsABSTime=1777529549&wsSession=50ce52dbb8c40b9f4ed6cd0e-177748635270415&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 15
-https://tfvg0graucmt3gazdqqjqge4dgmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=821c51e23fd957278ef5c11a0ecac18f&wsABSTime=1777529549&wsSession=50ce52dbb8c40b9f4ed6cd0e-177748635270415&wsIPSercert=97e4ef582b73b095c9f1da220e6ecf35&wsBindIP=2&wsserid=1168235948330673910
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 16
-
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 17
-
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 18
-
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 19
-
-#EXTINF:0 tvg-id="vtv5hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 20
+https://cdn-live.vtv.vn/EeOGcosE28uytPs6nMKheg/1782534957/live/vtv2/vtv2-720p.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 2
+https://cdn-live.vtv.vn/5TRjOMeSn1mEjZ5HsnxGVg/1782534949/live/vtv3/vtv3-720p.m3u8
+#EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 3
+https://cdn-live.vtv.vn/GTVZUERb7mCMFgzisLrPvg/1782534909/live/vtv9/vtv9-720p.m3u8
