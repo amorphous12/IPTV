@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
 
 
-#EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", Bóng Đá 1
-https://cdn-live.vtv.vn/UkW1CG5HYJ-TjpJ5r1Q-1g/1782541437/live/vtv2/master.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", Bóng Đá 2
-https://cdn-live.vtv.vn/5TRjOMeSn1mEjZ5HsnxGVg/1782534949/live/vtv3/master.m3u8
+#EXTINF:0 tvg-id="vtv1hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", BLV Sprite (ColaTV)
+https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", BLV Revive (ColaTV)
+https://live05.meung.app/live/33982309_tsc.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", Bóng Đá 3
 https://cdn-live.vtv.vn/GTVZUERb7mCMFgzisLrPvg/1782534909/live/vtv9/master.m3u8
